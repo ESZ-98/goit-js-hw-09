@@ -22,7 +22,6 @@ form.addEventListener('submit', event => {
           );
         });
     }
-    form.reset();
   }, delay.value);
 });
 
